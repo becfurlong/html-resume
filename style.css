@@ -1,0 +1,45 @@
+#details {
+    height: 180px;
+    width: 300px;
+    position: relative;
+}
+
+#profilepic {
+    position: absolute;
+    top: 0px;
+    left: 650px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: cadetblue;
+
+}
+
+h3{
+    margin-bottom: 5;
+    margin-top: 0;
+}
+
+h4 {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+h5 {
+    color: darkgray;
+    text-transform: uppercase;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+h6 {
+    color: darkgray;
+    margin-bottom: 0;
+    font-size: small;
+}
+
+ul {
+    margin: 0;
+}
